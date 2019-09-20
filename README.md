@@ -2,7 +2,7 @@ OS scheduler
 
 Desktop application
 
-used language : C# GUI (Windous form Application)
+used language : C# GUI (Windows form Application)
 
 supports :
 
